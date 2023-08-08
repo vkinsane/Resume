@@ -1,0 +1,52 @@
+Summary of Accomplishments - March 2023
+
+During the month of March 2023, as a software engineer intern at [Organization Name], I successfully contributed to various tasks and projects, primarily focused on implementing and enhancing Intercom integration. Here's a concise summary of my achievements:
+
+1. **Intercom Integration and Event Tracking:**
+   - Implemented Intercom integration in the application to track user events.
+   - Addressed CORS errors related to Intercom APIs.
+   - Collaborated with colleagues to create a separate service for handling user event tracking.
+   - Worked on fixing issues, such as successful sign-up but missing lead creation.
+   - Addressed alerts for user sign-ups using Google Sign-In.
+
+2. **Backend Service Integration:**
+   - Collaborated with Amey Sir to establish backend service integration for data retrieval.
+   - Developed methods to retrieve email and session URLs for specific domains and trigger alerts accordingly.
+   - Implemented functionality to verify tokens and send alerts based on user attributes.
+
+3. **Google Sheet Integration:**
+   - Collaborated with team members to create Google Sheets for whitelisted emails and user data.
+   - Added and managed entries for email addresses and user details in Google Sheets.
+   - Established connections between backend services and Google Sheets for seamless data retrieval.
+
+4. **Intercom Proof of Concept (POC):**
+   - Conducted a Proof of Concept (POC) for Intercom within the Conduit app.
+   - Explored the limitations of Intercom JavaScript APIs, focusing on banner triggers and event tracking.
+   - Designed and implemented POC scenarios, including user event tracking, banner triggers, and ticket creation.
+
+5. **Event Handling and Tracking:**
+   - Implemented event handling and tracking mechanisms for user interactions within the app.
+   - Developed workflows to capture and analyze user sessions, interactions, and errors.
+   - Created methods to trigger banners, track user clicks, and gather data for analysis.
+
+6. **Code Review and Collaboration:**
+   - Collaborated with team members, including Shantanu and Shikha, to review and refine code implementations.
+   - Participated in knowledge-sharing sessions and meetings with colleagues to ensure code quality and best practices.
+
+7. **Documentation and Communication:**
+   - Documented processes, event types, and data parameters for effective communication within the team.
+   - Maintained clear communication channels with team members, discussed requirements, and sought clarifications when needed.
+
+8. **Continuous Improvement:**
+   - Actively participated in discussions about feature enhancements, bug fixes, and integration improvements.
+   - Shared insights and suggestions to improve event tracking, data accuracy, and system performance.
+
+9. **Deployment and Testing:**
+   - Deployed demo apps with integrated Intercom SDK for testing and verification.
+   - Collaborated with team members to troubleshoot deployment issues and ensure seamless functionality.
+
+10. **Task Management and Prioritization:**
+    - Managed tasks within the Agile development framework, ensuring timely completion and alignment with project goals.
+    - Collaborated with Abhishek Sir and other team members to prioritize tasks, estimate efforts, and plan sprints effectively.
+
+Throughout the month, I demonstrated strong problem-solving skills, collaboration abilities, and a dedication to improving user experience through seamless event tracking and integration. My contributions have positively impacted the organization's capabilities in understanding user interactions and enhancing user engagement.
